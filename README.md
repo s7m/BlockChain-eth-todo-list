@@ -10,3 +10,4 @@ Following are the important dependencies,
 4. Mocha test framework
 5. Chai Assertion Library
 6. Light-Server
+7.web3.js
